@@ -11,6 +11,3 @@ This project is a toy. It roughly implemented following the Attention is All You
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to modify the sections and content based on the specifics of your project. If you need more detailed sections or have specific features to highlight, let me know!
