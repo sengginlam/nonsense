@@ -1,7 +1,7 @@
 # nonsense
 
 ## Introduction
-This project is a toy. It roughly implemented following the Attention is All You Need paper. 
+This project is a toy. It's roughly implemented following the Attention is All You Need paper. 
 
 ## ISSUES
 1. We can found the loss is very low at the beginning of the training. I guess it's over fit, because dataset.py::Datasets.getData use torch.utils.data.DataLoader sampling by a serial continuous int. It causes a lot of duplicate data.
